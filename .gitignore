@@ -1,0 +1,10 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# 一時ファイル
+*.tmp
+~$*
